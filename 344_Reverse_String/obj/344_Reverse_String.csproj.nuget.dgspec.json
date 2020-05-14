@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\LeetCode\\1313_Decompress_Ren-Length_Encoded_List\\1313_Decompress_Ren-Length_Encoded_List.csproj": {}
+    "C:\\Code\\LeetCode\\344_Reverse_String\\344_Reverse_String.csproj": {}
   },
   "projects": {
-    "C:\\Code\\LeetCode\\1313_Decompress_Ren-Length_Encoded_List\\1313_Decompress_Ren-Length_Encoded_List.csproj": {
+    "C:\\Code\\LeetCode\\344_Reverse_String\\344_Reverse_String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\LeetCode\\1313_Decompress_Ren-Length_Encoded_List\\1313_Decompress_Ren-Length_Encoded_List.csproj",
-        "projectName": "1313_Decompress_Ren-Length_Encoded_List",
-        "projectPath": "C:\\Code\\LeetCode\\1313_Decompress_Ren-Length_Encoded_List\\1313_Decompress_Ren-Length_Encoded_List.csproj",
+        "projectUniqueName": "C:\\Code\\LeetCode\\344_Reverse_String\\344_Reverse_String.csproj",
+        "projectName": "344_Reverse_String",
+        "projectPath": "C:\\Code\\LeetCode\\344_Reverse_String\\344_Reverse_String.csproj",
         "packagesPath": "C:\\Users\\leewa\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\LeetCode\\1313_Decompress_Ren-Length_Encoded_List\\obj\\",
+        "outputPath": "C:\\Code\\LeetCode\\344_Reverse_String\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

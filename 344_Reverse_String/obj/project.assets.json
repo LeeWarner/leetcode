@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\LeetCode\\1221_Split_a_String_in_Balanced_Strings\\1221_Split_a_String_in_Balanced_Strings.csproj",
-      "projectName": "1221_Split_a_String_in_Balanced_Strings",
-      "projectPath": "C:\\Code\\LeetCode\\1221_Split_a_String_in_Balanced_Strings\\1221_Split_a_String_in_Balanced_Strings.csproj",
+      "projectUniqueName": "C:\\Code\\LeetCode\\344_Reverse_String\\344_Reverse_String.csproj",
+      "projectName": "344_Reverse_String",
+      "projectPath": "C:\\Code\\LeetCode\\344_Reverse_String\\344_Reverse_String.csproj",
       "packagesPath": "C:\\Users\\leewa\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\LeetCode\\1221_Split_a_String_in_Balanced_Strings\\obj\\",
+      "outputPath": "C:\\Code\\LeetCode\\344_Reverse_String\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
