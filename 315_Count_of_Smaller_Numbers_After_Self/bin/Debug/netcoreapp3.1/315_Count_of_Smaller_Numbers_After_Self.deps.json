@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "315_Count_of_Smaller_Numbers_After_Self/1.0.0": {
+        "runtime": {
+          "315_Count_of_Smaller_Numbers_After_Self.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "315_Count_of_Smaller_Numbers_After_Self/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

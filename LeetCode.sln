@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "771_Jewels_and_Stones", "771_Jewels_and_Stones\771_Jewels_and_Stones.csproj", "{A659068D-3282-435B-A832-AB8BC33892BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number", "1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number\1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.csproj", "{2715204B-E298-41AA-BEEC-59E4BA4B7A57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "315_Count_of_Smaller_Numbers_After_Self", "315_Count_of_Smaller_Numbers_After_Self\315_Count_of_Smaller_Numbers_After_Self.csproj", "{F76CAB8C-F730-468C-9EFA-18AD5AEEE812}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1313_Decompress_Ren-Length_Encoded_List", "1313_Decompress_Ren-Length_Encoded_List\1313_Decompress_Ren-Length_Encoded_List.csproj", "{18AE4155-1013-47C8-BF62-079730008EEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer", "1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer\1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.csproj", "{A8E4093F-69ED-454C-AED4-6E04D0EED30A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1295_Find_NUmbers_with_Even_Number_of_Digits", "1295_Find_NUmbers_with_Even_Number_of_Digits\1295_Find_NUmbers_with_Even_Number_of_Digits.csproj", "{EA8EDB90-0DE0-4AC4-9C83-A571C034D4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1221_Split_a_String_in_Balanced_Strings", "1221_Split_a_String_in_Balanced_Strings\1221_Split_a_String_in_Balanced_Strings.csproj", "{B1B29C04-662F-435A-B551-1378CD431947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A659068D-3282-435B-A832-AB8BC33892BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A659068D-3282-435B-A832-AB8BC33892BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A659068D-3282-435B-A832-AB8BC33892BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A659068D-3282-435B-A832-AB8BC33892BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2715204B-E298-41AA-BEEC-59E4BA4B7A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2715204B-E298-41AA-BEEC-59E4BA4B7A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2715204B-E298-41AA-BEEC-59E4BA4B7A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2715204B-E298-41AA-BEEC-59E4BA4B7A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76CAB8C-F730-468C-9EFA-18AD5AEEE812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76CAB8C-F730-468C-9EFA-18AD5AEEE812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76CAB8C-F730-468C-9EFA-18AD5AEEE812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76CAB8C-F730-468C-9EFA-18AD5AEEE812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18AE4155-1013-47C8-BF62-079730008EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AE4155-1013-47C8-BF62-079730008EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AE4155-1013-47C8-BF62-079730008EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AE4155-1013-47C8-BF62-079730008EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E4093F-69ED-454C-AED4-6E04D0EED30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E4093F-69ED-454C-AED4-6E04D0EED30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E4093F-69ED-454C-AED4-6E04D0EED30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E4093F-69ED-454C-AED4-6E04D0EED30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8EDB90-0DE0-4AC4-9C83-A571C034D4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8EDB90-0DE0-4AC4-9C83-A571C034D4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8EDB90-0DE0-4AC4-9C83-A571C034D4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8EDB90-0DE0-4AC4-9C83-A571C034D4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B29C04-662F-435A-B551-1378CD431947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B29C04-662F-435A-B551-1378CD431947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B29C04-662F-435A-B551-1378CD431947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B29C04-662F-435A-B551-1378CD431947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC1C20C8-952C-4070-B050-963C5F5E500D}
+	EndGlobalSection
+EndGlobal

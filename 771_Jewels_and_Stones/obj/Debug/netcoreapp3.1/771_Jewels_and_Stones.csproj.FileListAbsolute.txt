@@ -1,0 +1,13 @@
+C:\Code\LeetCode\771_Jewels_and_Stones\bin\Debug\netcoreapp3.1\771_Jewels_and_Stones.exe
+C:\Code\LeetCode\771_Jewels_and_Stones\bin\Debug\netcoreapp3.1\771_Jewels_and_Stones.deps.json
+C:\Code\LeetCode\771_Jewels_and_Stones\bin\Debug\netcoreapp3.1\771_Jewels_and_Stones.runtimeconfig.json
+C:\Code\LeetCode\771_Jewels_and_Stones\bin\Debug\netcoreapp3.1\771_Jewels_and_Stones.runtimeconfig.dev.json
+C:\Code\LeetCode\771_Jewels_and_Stones\bin\Debug\netcoreapp3.1\771_Jewels_and_Stones.dll
+C:\Code\LeetCode\771_Jewels_and_Stones\bin\Debug\netcoreapp3.1\771_Jewels_and_Stones.pdb
+C:\Code\LeetCode\771_Jewels_and_Stones\obj\Debug\netcoreapp3.1\771_Jewels_and_Stones.csprojAssemblyReference.cache
+C:\Code\LeetCode\771_Jewels_and_Stones\obj\Debug\netcoreapp3.1\771_Jewels_and_Stones.csproj.CoreCompileInputs.cache
+C:\Code\LeetCode\771_Jewels_and_Stones\obj\Debug\netcoreapp3.1\771_Jewels_and_Stones.AssemblyInfoInputs.cache
+C:\Code\LeetCode\771_Jewels_and_Stones\obj\Debug\netcoreapp3.1\771_Jewels_and_Stones.AssemblyInfo.cs
+C:\Code\LeetCode\771_Jewels_and_Stones\obj\Debug\netcoreapp3.1\771_Jewels_and_Stones.dll
+C:\Code\LeetCode\771_Jewels_and_Stones\obj\Debug\netcoreapp3.1\771_Jewels_and_Stones.pdb
+C:\Code\LeetCode\771_Jewels_and_Stones\obj\Debug\netcoreapp3.1\771_Jewels_and_Stones.genruntimeconfig.cache
