@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1221_Split_a_String_in_Bala
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344_Reverse_String", "344_Reverse_String\344_Reverse_String.csproj", "{7489C946-B438-4C97-A4B1-B68C928A54AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Add_Two_Numbers", "2_Add_Two_Numbers\2_Add_Two_Numbers.csproj", "{73DBEF56-28D9-4D41-951C-AE4BF0F129BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{7489C946-B438-4C97-A4B1-B68C928A54AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7489C946-B438-4C97-A4B1-B68C928A54AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7489C946-B438-4C97-A4B1-B68C928A54AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DBEF56-28D9-4D41-951C-AE4BF0F129BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DBEF56-28D9-4D41-951C-AE4BF0F129BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DBEF56-28D9-4D41-951C-AE4BF0F129BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DBEF56-28D9-4D41-951C-AE4BF0F129BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
