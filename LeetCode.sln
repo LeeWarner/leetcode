@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Longest_Substring_Without
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1450_Number_of_Students_Doing_Homework_at_a_Given_Time", "1450_Number_of_Students_Doing_Homework_at_a_Given_Time\1450_Number_of_Students_Doing_Homework_at_a_Given_Time.csproj", "{303EB201-DAAA-45EC-8AFE-A7CE60901504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "414_Third_Maximum_Number", "414_Third_Maximum_Number\414_Third_Maximum_Number.csproj", "{4E8D04C9-36CE-4F89-AA1A-D5E4494ADC32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{303EB201-DAAA-45EC-8AFE-A7CE60901504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{303EB201-DAAA-45EC-8AFE-A7CE60901504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{303EB201-DAAA-45EC-8AFE-A7CE60901504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8D04C9-36CE-4F89-AA1A-D5E4494ADC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8D04C9-36CE-4F89-AA1A-D5E4494ADC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8D04C9-36CE-4F89-AA1A-D5E4494ADC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8D04C9-36CE-4F89-AA1A-D5E4494ADC32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
