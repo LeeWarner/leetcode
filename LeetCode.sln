@@ -21,11 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "344_Reverse_String", "344_R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Add_Two_Numbers", "2_Add_Two_Numbers\2_Add_Two_Numbers.csproj", "{73DBEF56-28D9-4D41-951C-AE4BF0F129BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342_Number_of_Steps_to_Reduce_a_Number_to_Zero", "1342_Number_of_Steps_to_Reduce_a_Number_to_Zero\1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.csproj", "{22656802-3263-4F23-8544-12F6924F2BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1342_Number_of_Steps_to_Reduce_a_Number_to_Zero", "1342_Number_of_Steps_to_Reduce_a_Number_to_Zero\1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.csproj", "{22656802-3263-4F23-8544-12F6924F2BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers", "1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers\1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.csproj", "{0B7A7209-9B06-4E47-BD63-7F82BA63B397}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers", "1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers\1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.csproj", "{0B7A7209-9B06-4E47-BD63-7F82BA63B397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Longest_Substring_Without_Repeating_Characters", "3_Longest_Substring_Without_Repeating_Characters\3_Longest_Substring_Without_Repeating_Characters.csproj", "{6614C7D4-19CA-428C-99D9-43DA7F8373BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Longest_Substring_Without_Repeating_Characters", "3_Longest_Substring_Without_Repeating_Characters\3_Longest_Substring_Without_Repeating_Characters.csproj", "{6614C7D4-19CA-428C-99D9-43DA7F8373BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1450_Number_of_Students_Doing_Homework_at_a_Given_Time", "1450_Number_of_Students_Doing_Homework_at_a_Given_Time\1450_Number_of_Students_Doing_Homework_at_a_Given_Time.csproj", "{303EB201-DAAA-45EC-8AFE-A7CE60901504}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{6614C7D4-19CA-428C-99D9-43DA7F8373BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6614C7D4-19CA-428C-99D9-43DA7F8373BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6614C7D4-19CA-428C-99D9-43DA7F8373BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303EB201-DAAA-45EC-8AFE-A7CE60901504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303EB201-DAAA-45EC-8AFE-A7CE60901504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303EB201-DAAA-45EC-8AFE-A7CE60901504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303EB201-DAAA-45EC-8AFE-A7CE60901504}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
