@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vlnnG8KP0dvv15tNfhsNRy0N8Xy4K4eWO07pinGGjZqtoZbu5lTZqJBui3ANQzXKpL/F//pLyGf5OREC866jMg==",
+  "dgSpecHash": "7JavGSwEHJ0EcGfCLGhU4rgQJmtqkTpSn3eB/TPL1w8B2+7JNRo2rXayXcy1M9vPmro8/rYncqQe4Nwo+ldhUA==",
   "success": true,
-  "projectFilePath": "C:\\Code\\LeetCode\\1480\\cs\\cs.csproj",
+  "projectFilePath": "/home/lee/code/leetcode/1480/cs/cs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

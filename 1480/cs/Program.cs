@@ -9,6 +9,7 @@ namespace cs
         static void Main(string[] args)
         {
             var answer = RunningSum(new int[] { 1, 2, 3, 4 });
+            Console.WriteLine(string.Join(',', answer));
         }
 
         static int[] RunningSum(int[] nums)
